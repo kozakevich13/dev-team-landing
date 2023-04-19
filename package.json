@@ -2,7 +2,7 @@
   "name": "dev-team",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kozakevich13.github.io/dev-team/",
+  "homepage": "https://kozakevich13.github.io/dev-team-landing/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
